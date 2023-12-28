@@ -14,11 +14,12 @@ The project is created with:
 * googleapiclient version: 
 	
 ## Setup
-To run this project, install it locally using git:
-
+To run this project, install it locally using git
+In the main directory add an .env file with the following:
+* temp
+* temp
+* temp
 ```
-add .env file with the following:
-
 $ cd ../YoutubePlaylistELO
 $ python main.py
 ```
